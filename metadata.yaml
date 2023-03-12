@@ -1,0 +1,51 @@
+_repo: Valittuja-kertomuksia_70238
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Hollo, J. A. (Juho Aukusti)
+    alias: Hollo, Juho Aukusti
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '47352'
+    url: http://www.gutenberg.org/2009/agents/47352
+    wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+  - agent_name: Manninen, Otto
+    alias: Manninen, O.
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '4617'
+    url: http://www.gutenberg.org/2009/agents/4617
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Otto_Manninen
+    - https://fi.wikipedia.org/wiki/Otto_Manninen
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anatole_France
+    - https://fr.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2023-03-09'
+identifiers:
+  gutenberg: '70238'
+language: fi
+pgterms:marc905: 20221125063641france
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bKust.Oy Kansanvalta, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Valittuja kertomuksia
+url: http://www.gutenberg.org/ebooks/70238
