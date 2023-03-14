@@ -18,6 +18,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Otto_Manninen
     - https://fi.wikipedia.org/wiki/Otto_Manninen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -33,6 +36,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anatole_France
     - https://fr.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70238#Valittuja-kertomuksia
 gutenberg_issued: '2023-03-09'
 identifiers:
   gutenberg: '70238'
